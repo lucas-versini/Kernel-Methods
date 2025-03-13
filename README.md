@@ -6,7 +6,7 @@ This repository contains my work on a [project](https://www.kaggle.com/competiti
 
 The goal of this project is to implement kernel methods for a classification task on DNA sequences. Machine Learning libraries such as `scikit-learn`, `libsvm`, etc. were forbidden: everything had to be implemented from scratch.
 
-**As explained in the Data section below, downloading the files from [here](https://drive.google.com/drive/folders/1uFX_MT0YVCdv1JQ4DPwzT0souCI_9C4f?usp=sharing) will make execution faster. These files contain data for the mismatch kernel which were simply obtained by looking at the list of k-mers present in the datasets. If they are not downloaded, the scripts will compute them, which may take some time.**
+**As explained in the *Pre-computed data* section below, downloading the files from [here](https://drive.google.com/drive/folders/1uFX_MT0YVCdv1JQ4DPwzT0souCI_9C4f?usp=sharing) will make execution faster. These files contain data for the mismatch kernel which were simply obtained by looking at the list of k-mers present in the datasets. If they are not downloaded, the scripts will compute them, which may take some time.**
 
 ## Installation
 
